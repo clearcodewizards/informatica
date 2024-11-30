@@ -65,3 +65,15 @@ $ mkdir templates
 $ subl templates/hello.html
 $ flask run -p 8080
 ```
+
+Voorbeeld hello.html:
+```
+<html>
+  <head>
+    <title>Hello!</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+```
